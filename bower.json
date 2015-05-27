@@ -1,0 +1,18 @@
+{
+  "name": "MyPractice",
+  "version": "0.0.0",
+  "authors": [
+    "Kristen Rieger <karieger1@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

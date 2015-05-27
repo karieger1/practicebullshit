@@ -1,0 +1,9 @@
+.buttons * {
+	border: 2px solid blue;
+	display: block;
+	height: 100px;
+	width: 200px;
+	margin: 10px;
+	background-color: turquoise;
+	font-size: 30px;
+}
